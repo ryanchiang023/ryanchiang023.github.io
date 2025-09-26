@@ -7,7 +7,7 @@ font-family: 'Dancing Script', cursive;
 p {
   width: 450px;  
   margin: 0 auto; 
-  text-align: center;
+  text-align: flex;
 }
 
 div {text-align: center;}
