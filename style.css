@@ -27,7 +27,7 @@ img {
   margin-right: 10px
 }
 
-.container{
+.container p{
   display: flex;
   align-items：center;
 }
