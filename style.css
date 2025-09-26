@@ -26,3 +26,10 @@ h3 {text-align: center;}
  grid-template-columns: 1fr 1fr 1fr 1fr;
  column-gap: 100px;
 }
+
+img {
+  max-width: 500px;}
+
+text {
+  font-size: 25px;
+}
