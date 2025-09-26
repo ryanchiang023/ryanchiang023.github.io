@@ -16,13 +16,13 @@ h2 {text-align: center;}
 
 h3 {text-align: center;}
 
-img {
+.img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-img_deg {
+.img_deg {
   float: right;
   width: 30%;
 }
