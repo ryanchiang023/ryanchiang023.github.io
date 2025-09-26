@@ -22,3 +22,7 @@ img {
   margin-right: auto;
 }
 
+img_deg {
+  float: right;
+  width: 30%;
+}
