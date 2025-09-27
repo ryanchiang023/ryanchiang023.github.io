@@ -51,6 +51,6 @@ text {
   margin-bottom: 10px;
 }
 
-a {font-style:italic;
+.link {font-style:italic;
    text-align:center;
    font-size:35px;}
